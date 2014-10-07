@@ -1,4 +1,5 @@
 "------ Encode ------"
+#test
 set encoding=utf-8
 if has('unix')
   set fileformat=unix
